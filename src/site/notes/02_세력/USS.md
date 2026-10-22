@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02/uss/","tags":["태양계","국제기구"],"dg-note-properties":{"aliases":["Union of Solar System"],"tags":["태양계","국제기구"],"status":"확정","updated":"2026-10-22"}}
+{"dg-publish":true,"permalink":"/02_세력/USS/","tags":["태양계","국제기구"],"dg-note-properties":{"aliases":["Union of Solar System"],"tags":["태양계","국제기구"],"status":"확정","updated":"2026-10-22"}}
 ---
 
 
